@@ -1,11 +1,11 @@
-fieldset {
+.block {
   margin-bottom: 20px;
 }
 
-input {
+.form__input {
   margin-bottom: 10px;
 }
 
-.margin {
+.select__cars {
   margin-bottom: 10px;
 }
